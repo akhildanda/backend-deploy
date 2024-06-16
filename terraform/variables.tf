@@ -19,6 +19,6 @@ variable "zone_name" {
   default = "akhildev.online"
 }
 
-variable "app_Version" {
+variable "app_version" {
     
 }
